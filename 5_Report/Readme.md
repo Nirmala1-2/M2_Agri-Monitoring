@@ -49,7 +49,9 @@ Efficiency and Efficient Communication.
 * Nickel plating to avoid corrosion
 
 
-# Simulation
+# Simulation![simulation output 1](https://user-images.githubusercontent.com/101582230/164624405-d2baff10-9414-4334-b75c-d329907a12bb.png)
+![simulation output 2](https://user-images.githubusercontent.com/101582230/164624492-9bc8f07e-3597-4cc6-9dd4-53c28a090cef.png)
+
  
 
 
