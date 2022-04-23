@@ -21,3 +21,6 @@
 # Git Inspector
 [![Contribution Check - Git Inspector](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/git_inspector.yml)
 
+# Valgrind
+[![Valgrind](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Valgrind.yml)
+
