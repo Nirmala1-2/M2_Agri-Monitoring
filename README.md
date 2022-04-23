@@ -12,3 +12,6 @@
 # Build-Windows
 [![Build CI - Windows](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Build_Windows.yml)
 
+# Build-Linux
+[![Build CI -Linux](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Build_Linux.yml)
+
