@@ -15,3 +15,6 @@
 # Build-Linux
 [![Build CI -Linux](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Build_Linux.yml)
 
+# Analysis
+[![Analysis](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Nirmala1-2/M2_Agri-Monitoring/actions/workflows/Analysis.yml)
+
