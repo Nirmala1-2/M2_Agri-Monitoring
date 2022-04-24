@@ -21,7 +21,7 @@ Efficiency and Efficient Communication.
 * No incenties
 
 ## Opportunities
-* Introduction of technology in extension is increasing reach and innovative agriculture is spreading
+ Introduction of technology in extension is increasing reach and innovative agriculture is spreading
 
 ## Threats
 * Lack of insurance
