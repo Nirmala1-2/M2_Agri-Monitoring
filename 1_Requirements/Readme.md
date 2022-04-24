@@ -15,15 +15,15 @@ Efficiency and Efficient Communication.
 * Existing Technological Tools
 * Reduction in pestidies
 
-# Weakness
+## Weakness
 * High cost
 * Lack of Marketing
 * No incenties
 
-# Opportunities
+## Opportunities
 * Introduction of technology in extension is increasing reach and innovative agriculture is spreading
 
-# Threats
+## Threats
 * Lack of insurance
 * Competition
 
