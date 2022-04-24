@@ -9,6 +9,35 @@ described the agriculture sensor and its use in smart agriculture for increase t
 technology is more efficient due to following reasons such as Global Connectivity through any devices, Minimum human efforts, Faster Access, Time
 Efficiency and Efficient Communication.
 
+# Swot Analysis
+## strength
+* Increase in farm yield
+* Existing Technological Tools
+* Reduction in pestidies
+
+# Weakness
+* High cost
+* Lack of Marketing
+* No incenties
+
+# Opportunities
+* Introduction of technology in extension is increasing reach and innovative agriculture is spreading
+
+# Threats
+* Lack of insurance
+* Competition
+
+# 4W's and 1'H
+## WHERE
+Used in Agriculture Land
+## WHEN
+At Well growth
+## WHY
+Monitoring crops not only prevents the production
+## HOW
+Operate the Sensors and by using microcontroller,lcd display
+
+
 # Detail Requirements
 
 ## High Level Requirements
